@@ -385,34 +385,34 @@
 .about6 .btn:hover button:hover {
   transition: 0.5s all;
 }
-.about7-footer .about-footer-16-main {
+.footer .about-footer-16-main {
   background: #f7f9fc;
 }
-.about7-footer .row {
+.footer .row {
   display: flex;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
 }
-.about7-footer .about-footer-16-main h3 {
+.footer .about-footer-16-main h3 {
   font-size: 20px;
   line-height: 25px;
   color: #2c3038;
   margin-bottom: 30px;
   font-weight: 600;
 }
-.about7-footer ul {
+.footer ul {
   margin: 0;
   padding: 0;
   list-style: disc;
 }
-.about7-footer .column li {
+.footer .column li {
   display: block;
   list-style: none;
   margin: 10px 0;
   list-style-type: none;
 }
-.about7-footer .column li a {
+.footer .column li a {
   color: #656f7b;
   font-weight: normal;
   font-size: 15px;
@@ -420,20 +420,20 @@
   padding: 0;
   text-transform: capitalize;
 }
-.about7-footer .end-column {
+.footer .end-column {
   background-color: #fff;
   padding: 2em;
   border-radius: 6px;
   box-shadow: 1px 5px 7.5px rgba(14, 13, 13, 0.2);
 }
-.about7-footer .about-footer-16-main h4 {
+.footer .about-footer-16-main h4 {
   font-size: 18px;
   line-height: 25px;
   color: #2c3038;
   margin-bottom: 30px;
   font-weight: 400;
 }
-.about7-footer .subscribe input[type="email"] {
+.footer .subscribe input[type="email"] {
   background: #f7f9fc;
   border: none;
   padding: 12px 20px;
@@ -444,7 +444,7 @@
   font-weight: 600;
   border-radius: 6px;
 }
-.about7-footer .subscribe button {
+.footer .subscribe button {
   text-align: center;
   background: #dc4f72;
   border: none;
@@ -457,16 +457,16 @@
   color: #fff;
   border-radius: 6px;
 }
-.about7-footer .about-footer-16-main p {
+.footer .about-footer-16-main p {
   line-height: 22px;
   color: #5a5a5a;
   font-size: 16px;
 }
-.about7-footer ul.social li {
+.footer ul.social li {
   display: inline-block;
   margin-right: 5px;
 }
-.about7-footer ul.social li a {
+.footer ul.social li a {
   color: #2c3038;
   width: 36px;
   height: 36px;
@@ -476,7 +476,7 @@
   text-align: center;
   transition: 0.3s all;
 }
-.about7-footer ul.social li a:hover {
+.footer ul.social li a:hover {
   color: #dc4f72;
   transition: 0.3s all;
 }
